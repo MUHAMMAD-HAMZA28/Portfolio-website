@@ -8,7 +8,6 @@ This is my portfolio website using HTML,CSS and JS that show case my skills.
 
 # Features
 + Dark mode and light mode
-+ Responsive Design
 + Mentioned skills in skill section
 + Contact us form section
 + One click form access
