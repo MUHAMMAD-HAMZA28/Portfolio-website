@@ -1,2 +1,5 @@
 # Portfolio-website
-Using Html,Css and JS 
+This is my portfolio website using HTML,CSS and JS that show case my skills.
+ 💻 Features
+ 
+
