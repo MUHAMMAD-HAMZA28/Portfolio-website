@@ -17,3 +17,8 @@ This is my portfolio website using HTML,CSS and JS that show case my skills.
 + Name : MUHAMMAD HAMZA
 + Email : muhammadhamza2869@gmail.com
 
+# Usage
++ Clone respository
++ git clone https://github.com/MUHAMMAD-HAMZA28/Portfolio-website.git
+  
+
